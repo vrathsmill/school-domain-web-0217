@@ -7,7 +7,7 @@ class School
     @school = school
     @roster = {}
   end
-
+#comment 
   def add_student(student_name, grade)
     @grade = grade
     @student_names = []
